@@ -1,6 +1,10 @@
 # Descrição do Projeto
 Se trata de uma interface de descrições de produtos utilizado listas e objetos.
 
+![image](https://user-images.githubusercontent.com/66559540/174301002-44423b36-28f4-42d2-a82d-a51055e01199.png)  ![image](https://user-images.githubusercontent.com/66559540/174301166-e8fa5fe2-73c2-438a-bb81-d4c852d34376.png)
+
+
+
 # Introdução ao React Native
 Curso de React Native Alura
 
